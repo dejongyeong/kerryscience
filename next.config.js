@@ -10,10 +10,7 @@ const withPWA = require('@ducanh2912/next-pwa').default({
 const nextConfig = withPWA({
   reactStrictMode: true,
   swcMinify: true,
-  experimental: {
-    serverActions: true,
-    appDir: true,
-  },
+  experimental: {},
 });
 
 module.exports = nextConfig;

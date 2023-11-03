@@ -22,7 +22,7 @@ export function Welcome({ setProfession }: WelcomeProps) {
     <div className="w-full flex flex-col gap-y-4 p-6 bg-white shadow-xl rounded-md">
       <div className="leading-relaxed">
         <p className="text-xs text-gray-500">Welcome to</p>
-        <Title level={4}>2023 National Ploughing Championships</Title>
+        <Title level={4}>2023 Kerry Science Festival</Title>
       </div>
       <div className="flex flex-col gap-y-4">
         <Text italic>Select an option below to continue</Text>

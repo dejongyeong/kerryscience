@@ -4,8 +4,8 @@ import Providers from './providers';
 import './globals.css';
 
 export const metadata = {
-  title: 'Ploughing EI',
-  description: 'Ploughing EI MCQ Application',
+  title: 'Kerry Science Festival',
+  description: 'Kerry Science Festival Ice Cream Robot Application',
   authors: [
     {
       name: 'De Jong Yeong',
